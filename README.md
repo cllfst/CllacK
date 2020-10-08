@@ -1,2 +1,2 @@
 # CllacK
-Collaborative Platform Hybrid App For CLL FST
+Collaborative Platform For CLL FST
